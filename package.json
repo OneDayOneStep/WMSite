@@ -1,0 +1,15 @@
+{
+  "name": "wmsite",
+  "version": "1.0.0",
+  "description": "Wintelia MiddleGround Site",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lee",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.2",
+    "webpack": "^5.51.1"
+  }
+}
